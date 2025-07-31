@@ -1,63 +1,68 @@
-# 👋 Hi, I'm **Suryansh Kapil**
+# 👋 Hi there, I'm Suryansh Kapil
 
-I recently completed my **B.Tech in Computer Science & Engineering** at **CGC Landran, IK Gujral Punjab Technical University**, and I'm a passionate React Native developer specializing in pet-practice appointment systems.
-
----
-
-## 🎓 About Me
-
-- 🧑‍🎓 **Name:** Suryansh Kapil  
-- 🎓 **Course:** B.Tech CSE  
-- 🏫 **College:** CGC Landran (IKGPTU)  
-- ✅ **Course Status:** Completed in 2025 (July)
+🎓 **BTech CSE Graduate**  
+📍 CGC Landran | I.K. Gujral Punjab Technical University  
+📅 **Course Status:** Completed  
+💼 Passionate about full-stack development, machine learning, and crafting intuitive user interfaces.
 
 ---
 
-## 🐾 Key Projects
+## 🔧 Tech Stack
 
-Check out my featured project:
-
-- **Pet Practice Appointment App** – A React Native + Firebase application for veterinary appointment management. Role-based features for Pet Owners and Doctors, appointment booking, emergency transfers, and real-time sync.  
-  👉 [github.com/Suryanshkapil/react-native-appointment](https://github.com/Suryanshkapil/react-native-appointment)
-
----
-
-## 🛠 Tech Stack
-
-- **Frontend:** React Native + Expo + TypeScript  
-- **Backend:** Firebase Auth & Firestore  
-- **Tools:** EAS Build, React Navigation, AsyncStorage, SafeAreaView  
-- **ICIMS:** Git, GitHub, version control, and deployment automation
+- **Languages:** C++, Java, Python, JavaScript, TypeScript  
+- **Frontend:** React.js, React Native, Angular  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase, PostgreSQL  
+- **DevOps & Tools:** Git, Docker, VS Code, Firebase CLI, Expo, EAS Build  
+- **UI/UX Tools:** Figma, Adobe XD  
+- **Machine Learning:** OpenCV, Python ML libraries  
+- **Version Control:** Git & GitHub
 
 ---
 
-## 📌 What I Can Do
+## 🚀 Featured Projects
 
-- Build **mobile-friendly** cross-platform apps (Android/iOS)  
-- Design **clean UI** with minimal React Native components  
-- Integrate **secure authentication** and real-time database sync with Firebase  
-- Handle **emergency workflows**, notifications, and user role management  
-- Deliver **signed APKs** using EAS for Android deployment
+### 🔬 Sign Language Detection (Computer Vision Project)
+Real-time hand gesture and sign recognition using OpenCV and Python. Helps in translating signs into readable text or speech for inclusive communication.
+
+### 🩺 React Native Pet Appointment App
+A complete mobile app for pet owners and veterinary doctors.  
+Key Features:
+- Role-based login (Doctor/Pet Owner)
+- Doctor availability scheduling
+- Disease-based filtering
+- Emergency appointment transfers
+- Firebase Auth + Firestore backend
+- Clean and modern UI with React Native
+
+### 🌐 MERN Stack Projects
+Full-stack applications built with:
+- **MongoDB** for data persistence
+- **Express.js & Node.js** for APIs
+- **React.js** for front-end SPA interfaces  
+Projects include admin dashboards, appointment systems, and role-based access control.
+
+### 🎨 UI/UX Projects
+Multiple clean, user-friendly mobile and web interfaces using:
+- **Figma/Adobe XD** for design
+- **React Native** and **CSS modules** for development
 
 ---
 
-## 🚀 What’s Next?
 
-I'm now open to:
-- Internships or job roles focused on **mobile development**, **React Native**, or **full-stack apps**
-- Learning more about **payment integrations**, **complex push notifications**, and **State management (Redux/MobX)**
-- Contributing to open source projects with real-world impact
+## 📫 Connect with Me
 
----
-
-## 📫 Let's Connect
-
-- **GitHub:** [github.com/Suryanshkapil](https://github.com/Suryanshkapil)  
-- **LinkedIn:** *(Add your profile link)*  
-- **Email:** *(Add your contact email)*  
-
-Feel free to explore my repositories, star the ones you find interesting, and get in touch!
+- 📧 Email: [suryanshkapil115@gmail.com](mailto:suryanshkapil115@gmail.com)
+- 🔗 [GitHub](https://github.com/Suryanshkapil)
+- 💼 Open to internships, freelance, and collaborative opportunities!
 
 ---
 
-*Last updated: July 2025*
+## 🪪 License
+
+All repositories in this profile are published under the **MIT License**, unless otherwise noted.
+
+---
+
+_Thanks for visiting! Let’s build something amazing together._
+
